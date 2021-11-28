@@ -8,15 +8,19 @@ When you’re finished, upload your block diagram to the #assignment-submission 
 
 <img width="482" alt="Screen Shot 2021-11-28 at 1 02 21 PM" src="https://user-images.githubusercontent.com/34926684/143785859-64f59b9b-93ec-4ab5-ba0c-f2fa737e201a.png">
 
+
 Exercise 2.2 
+
 Read mbed code, make diagram 
-● Create a sign in and log into the mbed compiler 
-● Go to mbed platforms https://os.mbed.com/platforms/ 
-● Select any platform (hint: search for a processor similar to the one you are considering for your final project) 
-◆ Read through the platform page 
-◆ Add to Mbed Compiler (button on right) 
-◆ Load a simple sounding template 
-◆ Create a block diagram for this program, briefly explain why you chose the platform and template you did, be prepared to talk about this board in Live Class 
+
+●  Create a sign in and log into the mbed compiler
+●  Go to mbed platforms https://os.mbed.com/platforms/ 
+●  Select any platform (hint: search for a processor similar to the one you are considering for your final project) 
+◆     Read through the platform page 
+◆     Add to Mbed Compiler (button on right) 
+◆     Load a simple sounding template 
+◆     Create a block diagram for this program, briefly explain why you chose the platform and template you did, be prepared to talk about this board in Live Class 
+
 When you’re finished, upload your block diagram to the #assignment-submission channel on Discord. 
 
 

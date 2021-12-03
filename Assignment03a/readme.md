@@ -34,7 +34,7 @@ The board I am considering for my project is the STM32U5 DISCOVERY KIT FOR IOT (
 
 -It has 14-bit ADC 2.5-Msps as well as 12-bit ADC 2.5-Msps.
 
-
+-I reviewed the "Getting started with STM32CubeU5 for STM32U5 Series".  It was quite detailed, but it was relevant to me since I wanted to get started exploring the SW eco system and this had both breadth and depth.
 
 
 

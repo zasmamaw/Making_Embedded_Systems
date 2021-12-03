@@ -20,7 +20,7 @@ Look at one application note for this processor.
 
 ********
 
-The board I am considering for my project is the STM32U5 DISCOVERY KIT FOR IOT (B-U585I-IOT02A).  I chose this board primarily for the rich set of sensors that it includes.  Below is the hardware block diagram, along with wide variety of peripheral devices that it features:
+-The board I am considering for my project is the STM32U5 DISCOVERY KIT FOR IOT (B-U585I-IOT02A).  I chose this board primarily for the rich set of sensors that it includes.  Below is the hardware block diagram, along with wide variety of peripheral devices that it features:
 
 <img width="639" alt="Screen Shot 2021-12-02 at 6 34 32 PM" src="https://user-images.githubusercontent.com/34926684/144535099-c7efa98d-b56a-4f36-b30c-d48c728c4ee0.png">
 

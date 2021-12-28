@@ -1,5 +1,5 @@
 Lesson 4 Exercise: Make Blinky
-
+==
 On your final project board, make blinky for yourself. Then add a button to turn the LED on and off. Bonus points for making the button cause an interrupt. Triple bonus points for debouncing the button signal.
 
 What are the hardware registers that cause the LED to turn on and off? (From the processor manual, don’t worry about initialization.) 
